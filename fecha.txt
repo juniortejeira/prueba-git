@@ -1,1 +1,15 @@
 09/02/2001
+
+git branch
+
+git checkout carpetaBranch
+
+git checkout -b "carpetaBranch"
+
+git status 
+
+git add . 
+
+ git commit -m "nuevaBranch"
+
+ git push origin carpetaBranch
